@@ -2,3 +2,4 @@ config=true
 Temp File
 main chang
 Feature test
+Changed text
