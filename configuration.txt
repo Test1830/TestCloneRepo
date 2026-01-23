@@ -3,9 +3,4 @@ Temp File
 main chang
 Feature test
 Hello World
-<<<<<<< HEAD
-=======
-Change1
-Change2
 Bug Fix
->>>>>>> 3b1f738 (Bug fix in the file)
