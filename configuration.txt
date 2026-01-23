@@ -3,4 +3,12 @@ Temp File
 main chang
 Feature test
 Hello World
+<<<<<<< HEAD
 Bug Fix
+=======
+Change1
+Change2
+Bug Fix
+Change3
+Change4
+>>>>>>> CherryPick-test
